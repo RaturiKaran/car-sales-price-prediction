@@ -37,8 +37,8 @@ The dataset contains the following columns:
 
 ---
 
-## 🛠 Technologies Used
-- **Python** 🐍
+##  Technologies Used
+- **Python** 
 - **Pandas** – Data cleaning and manipulation  
 - **NumPy** – Numerical computations  
 - **Matplotlib / Seaborn** – Data visualization  
@@ -48,15 +48,15 @@ The dataset contains the following columns:
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
-### 1️⃣ Data Quality Checks
+### 1. Data Quality Checks
 - Converted categorical variables like `gender` and `country` into numerical format  
 
-### 2️⃣ Statistical Summary
+### 2. Statistical Summary
 - Descriptive statistics to understand feature distribution:
 
-### 3️⃣ Visualizations
+### 3. Visualizations
 - Distribution of Car Purchase Amount
 - Annual Salary vs Car Purchase Amount
 - Correlation Heatmap
@@ -79,7 +79,7 @@ The dataset contains the following columns:
 
 ---
 
-## 📈 Results
+## Results
 - The model achieved **high accuracy** in predicting car prices.  
 - Key drivers for prediction: **Annual Salary**, **Net Worth**, **Age**.
 
